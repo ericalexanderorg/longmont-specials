@@ -1,6 +1,6 @@
 
 ## Daily Happy Hour
-- Days: [[Monday]], [[Tuesday]], [[Wednesday]], [[Thursday]], [[Friday]], [[Saturday]], [[Sunday]]
+- Days: [Monday](Monday.md), [Tuesday](Tuesday.md), [Wednesday](Wednesday.md), [Thursday](Thursday.md), [Friday](Friday.md), [Saturday](Saturday.md), [Sunday](Sunday.md)
 - Hours: 3pm-5pm
 - Deals
 	- 25% off all appetizers, beer, palomas, and margaritas

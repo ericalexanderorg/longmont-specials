@@ -1,5 +1,5 @@
 ## Weekday Happy Hour
-#days: [[Monday]], [[Tuesday]], [[Wednesday]], [[Thursday]], [[Friday]]
+#days: [Monday](Monday.md), [Tuesday](Tuesday.md), [Wednesday](Wednesday.md), [Thursday](Thursday.md), [Friday](Friday.md)
 
 - Hours
 	- 3pm to 5pm
