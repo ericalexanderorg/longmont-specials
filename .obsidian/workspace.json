@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Places/West Side Tavern.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Places/West Side Tavern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Places/West Side Tavern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Places/West Side Tavern.md"
               }
             }
           }
@@ -161,11 +162,6 @@
   },
   "active": "1d56f246c224ee80",
   "lastOpenFiles": [
-    "Needs Info.md",
-    "README.md",
-    "Days/Monday.md",
-    "Places/300 Suns Brewing.md",
-    "Places/West Side Tavern.md",
     "Places/Tortugas.md",
     "Places/The Roost.md",
     "Places/The Post.md",
@@ -187,6 +183,11 @@
     "Places/Collision Brewing.md",
     "Places/Caprese Trattoria.md",
     "Places/Cantina Lunada.md",
+    "Places/300 Suns Brewing.md",
+    "Days/Monday.md",
+    "README.md",
+    "Days/Wednesday.md",
+    "Days/Tuesday.md",
     "Days",
     "Places"
   ]
